@@ -1,11 +1,8 @@
 {
   "name": "respawn-tools",
   "owner": {
-    "name": "Respawn"
-  },
-  "metadata": {
-    "description": "CLI skills and tools from Respawn",
-    "version": "0.1.0"
+    "name": "Respawn LLC",
+    "email": "hello@respawn.pro"
   },
   "plugins": [
     {
