@@ -4,6 +4,10 @@
     "name": "Respawn LLC",
     "email": "hello@respawn.pro"
   },
+  "metadata": {
+    "description": "CLI skills and tools from Respawn",
+    "version": "0.1.0"
+  },
   "plugins": [
     {
       "name": "ksrc",
