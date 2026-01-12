@@ -15,7 +15,13 @@ In Claude Code:
 /plugin install ksrc@respawn-tools
 ```
 
+## Install flowmvi plugin
+
+```
+/plugin install flowmvi@respawn-tools
+```
+
 ## Plugin list
 
 - `ksrc`: skill for searching/reading Kotlin dependency sources
-
+- `flowmvi`: FlowMVI skill for Kotlin Multiplatform MVI framework
